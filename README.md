@@ -1,2 +1,4 @@
 # Myriad-Coin-Ticker
-A Ticker for Myriad Coin
+A browser extension that adds a ticker for Myriad Coin
+
+Works in Firefox and Chrome
