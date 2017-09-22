@@ -5,7 +5,7 @@
 	"version": "1.0",
 
 	"description": "Myriad Coin Ticker",
-	"homepage_url": https://github.com/Verified-Madgod/Myriad-Coin-Ticker",
+	"homepage_url": "https://github.com/Verified-Madgod/Myriad-Coin-Ticker",
 	"icons": {
 		"48": "icons/myriad-48.png"
 	},
