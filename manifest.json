@@ -1,0 +1,19 @@
+{
+
+	"manifest_version": 2,
+	"name": "Myriad Coin",
+	"version": "1.0",
+
+	"description": "Myriad Coin Ticker",
+	"homepage_url": https://github.com/Verified-Madgod/Myriad-Coin-Ticker",
+	"icons": {
+		"48": "icons/myriad-48.png"
+	},
+
+	"browser_action": {
+		"default_icon": "icons/myriad-32.png",
+		"default_title": "MyriadCoin",
+		"default_popup": "popup/myriad.html"
+	}
+
+}
