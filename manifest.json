@@ -1,18 +1,23 @@
 {
 
 	"manifest_version": 2,
-	"name": "Myriad Coin",
-	"version": "1.0",
+	"name": "Myriad Coin Ticker",
+	"short_name": "Myriad",
+	"version": "1.2",
 
-	"description": "Myriad Coin Ticker",
+	"description": "A Ticker for the Myriad Coin Cryptocurrency",
 	"homepage_url": "https://github.com/Verified-Madgod/Myriad-Coin-Ticker",
 	"icons": {
 		"48": "icons/myriad-48.png"
 	},
 
+	"permissions": [
+		"https://api.coinmarketcap.com/"
+	],
+
 	"browser_action": {
 		"default_icon": "icons/myriad-32.png",
-		"default_title": "MyriadCoin",
+		"default_title": "Myriad",
 		"default_popup": "popup/myriad.html"
 	}
 
